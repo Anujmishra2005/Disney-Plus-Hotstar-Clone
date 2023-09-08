@@ -30,7 +30,7 @@ It is a Working clone of the landing page of Disney Plus Hotstar using HTML, CSS
 **2.** Clone your new fork of the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/Netflix-Clone
+git clone https://github.com/<your-github-username>/Disney-Plus-Hotstar-Clone
 ```
 
 **3.** Set upstream command:
