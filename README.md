@@ -1,6 +1,6 @@
 # Disney-Plus-Hotstar-Clone
 
-### [Netflix Clone Live Link](https://disney-plus-hotstar-clone-mu.vercel.app/)
+### [Disney Plus Hotstar Clone Live Link](https://disney-plus-hotstar-clone-mu.vercel.app/)
 
 It is a Working clone of the landing page of Disney Plus Hotstar using HTML, CSS and JavaScript.
 
